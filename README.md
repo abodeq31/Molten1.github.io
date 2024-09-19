@@ -68,7 +68,7 @@
   </head>
   <body>
   <div class="container">
-  <img alt="K.TUG" src="vjmii.github.io_files/trTrhKi.webp">
+  <img alt="Molten" src="https://discord.gg/llll)">
   <p id="discord-link">
   <span id="ip">Your IP : 188.236.20.88<br>
   <span id="location">Country &amp; City : KW - Ar Riqqah</span>
